@@ -84,7 +84,7 @@
 							</dict>
 							<dict>
 								<key>Boost</key>
-								<integer>4</integer>
+								<integer>5</integer>
 								<key>NodeID</key>
 								<integer>25</integer>
 							</dict>
@@ -156,7 +156,7 @@
 							</dict>
 							<dict>
 								<key>Boost</key>
-								<integer>4</integer>
+								<integer>5</integer>
 								<key>NodeID</key>
 								<integer>27</integer>
 							</dict>
